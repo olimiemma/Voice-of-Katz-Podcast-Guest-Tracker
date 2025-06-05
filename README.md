@@ -2,6 +2,7 @@
 student tracking platform based. This will allow you to Register and manage student information with checkboxes for completion status and sorting capabilities.
 
 Here are the key features:
+![Screenshot from 2025-06-05 14-37-14](https://github.com/user-attachments/assets/1f706089-d8a7-4e45-a03d-5580edd00e58)
 
 **Core Functionality:**
 
